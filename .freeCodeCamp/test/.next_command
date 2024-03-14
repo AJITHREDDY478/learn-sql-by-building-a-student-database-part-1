@@ -54,3 +54,7 @@ chmod +x insert_data.sh
 more insert_data.sh
 vi insert_data.sh
 vi insert_data.sh
+cat courses.csv
+vi insert_data.sh
+__vsc_prompt_cmd_original
+vi insert_data.sh
