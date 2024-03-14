@@ -74,3 +74,4 @@ vi insert_data.sh
 ./insert_data.sh
 declare -p IFS
 vi insert_data.sh
+./insert_data.sh
